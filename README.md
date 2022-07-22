@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Any project on Flutter**
 
-- 📝 I regularly write articles on [https://hackernoon.com/u/owlhacker198](https://hackernoon.com/u/owlhacker198)
+- 📝 I regularly write articles on https://www.linkedin.com/newsletters/hello-from-flutter-6953436384514723840/
 
 - 💬 Ask me about **Flutter, Dart, Firebase**
 
