@@ -1,7 +1,7 @@
 <h1 align="center">Blessings👋, I'm Mohammad Abdur Rehman</h1>
 <h3 align="center">A lazy-productive Flutter Developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **AR, Flutter, TensorflowLite and Flame**
+- 🌱 I’m currently learning **AR, Flutter, TensorflowLite and OpenCV**
 
 - 👯 I’m looking to collaborate on **Any project on Flutter**
 
